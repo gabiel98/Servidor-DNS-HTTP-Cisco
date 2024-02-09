@@ -4,3 +4,9 @@
 
 ## Oque foi feito?
 * Interligação de computadores em rede de modo mais seguro utilizando switches;
+* Construir e operar redes usando roteadores como dispositivo de interligação, permitindo a comunicação de redes locais com redes externas;
+* Criar sub redes usando roteadores;
+* Configuração do protocolo DHCP para atribuição automática de endereços IP;
+* Construção de uma intranet com servidores;
+* Configuração de servidores web em uma intranet para armazenar páginas e arquivos;
+* Configuração e usar um servidor DNS para traduzir endereços de IP numéricos em nomes de domínio legíveis.
